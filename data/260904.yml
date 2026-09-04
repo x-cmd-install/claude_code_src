@@ -7,7 +7,7 @@ about:
   head: 28b190a
   archived: false
   latestVersion: 2.1.88
-  collectedAt: 2026-09-04T19:17:59Z
+  collectedAt: 2026-09-04T21:17:58Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-04-15
@@ -81,5 +81,33 @@ total:
   openIssue: 5
   commit: 21
 ---
+path: /home/runner/.x-repo/github.com/ponponon/claude_code_src
+collectedAt: 2026-09-04T21:18:00Z
+loc:
+  JavaScript:
+    code: 352421
+    comments: 83733
+    blanks: 25708
+    files: 2850
+  TypeScript:
+    code: 288021
+    comments: 71157
+    blanks: 30683
+    files: 1354
+  Tsx:
+    code: 117211
+    comments: 12994
+    blanks: 3014
+    files: 552
+  Markdown:
+    code: 0
+    comments: 70
+    blanks: 44
+    files: 1
+total:
+  code: 757654
+  comments: 167954
+  blanks: 59449
+  files: 4757
 ---
 
