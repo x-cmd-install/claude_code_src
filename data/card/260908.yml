@@ -5,7 +5,7 @@ about:
   head: 28b190a
   archived: false
   latestVersion: "2.1.88"
-  collectedAt: 2026-09-08T02:11:47Z
+  collectedAt: 2026-09-08T04:58:15Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-04-15
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 2336
   watcher: 13
-  fork: 3527
+  fork: 3528
   release: 1
   contributor: 1
   pullRequest: 2
@@ -80,7 +80,7 @@ total:
   commit: 21
 ---
 path: /home/runner/.x-repo/github.com/ponponon/claude_code_src
-collectedAt: 2026-09-08T02:11:51Z
+collectedAt: 2026-09-08T04:58:20Z
 loc:
   JavaScript:
     code: 352421
