@@ -7,7 +7,7 @@
 - **Latest release**: `2.1.88` (2026-04-01)
 - **Last commit**: 2026-04-15
 - **License**: NOASSERTION
-- **Stars**: 2336 · **Forks**: 3528 · **Open issues**: 6 · **Contributors**: 1
+- **Stars**: 2337 · **Forks**: 3528 · **Open issues**: 6 · **Contributors**: 1
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/claude_code_src> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:03:20Z._
+_Last regenerated: 2026-09-09T04:57:16Z._
