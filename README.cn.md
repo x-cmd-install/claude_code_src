@@ -4,7 +4,7 @@
 
 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码
 
-![claude_code_src](https://repo.x-cmd.io/claude_code_src.svg)
+![claude_code_src](https://repo.x-cmd.io/claude_code_src.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,16 @@ x install claude_code_src
 - **最新版本**: `2.1.88` (2026-04-01)
 - **最近提交**: 2026-04-15
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-04-01T03:38:25Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [claude-code-2.1.88.tgz](https://github.com/ponponon/claude_code_src/releases/download/2.1.88/claude-code-2.1.88.tgz) | 29.8 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 2,337 · **Fork**: 3,528 · **开放 issue**: 6 · **贡献者**: 1
+- **Star**: 2,337 · **Fork**: 3,527 · **开放 issue**: 6 · **贡献者**: 1
 
 ## 累计统计
 
@@ -60,4 +65,4 @@ claude_code_src 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:18Z._
