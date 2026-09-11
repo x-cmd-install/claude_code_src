@@ -12,6 +12,17 @@
 x install claude_code_src
 ```
 
+## 代码洞察
+
+合计: **757,653** 行代码（覆盖前 5 种语言、共 **4757** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| JavaScript | 352,421 | 83,733 | 25,708 | 2850 |
+| TypeScript | 288,021 | 71,157 | 30,683 | 1354 |
+| Tsx | 117,211 | 12,994 | 3,014 | 552 |
+| Markdown | 0 | 70 | 44 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ponponon/claude_code_src>
@@ -22,12 +33,6 @@ x install claude_code_src
 - **最新版本**: `2.1.88` (2026-04-01)
 - **最近提交**: 2026-04-15
 - **Release 含资产**: 1 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [claude-code-2.1.88.tgz](https://github.com/ponponon/claude_code_src/releases/download/2.1.88/claude-code-2.1.88.tgz) | 29.8 MiB | `native/unknown` |
 
 ## 流行度
 
@@ -41,20 +46,18 @@ x install claude_code_src
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 360d | 2025-09-16 | 1 | 0 | 1 | 1 | 5 | 21 |
+| last720d | 2024-09-21 | 1 | 0 | 1 | 1 | 5 | 21 |
 
-## 代码规模
+## Release 资产
 
-合计: **757,653** 行代码（覆盖前 5 种语言、共 **4757** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| JavaScript | 352,421 | 83,733 | 25,708 | 2850 |
-| TypeScript | 288,021 | 71,157 | 30,683 | 1354 |
-| Tsx | 117,211 | 12,994 | 3,014 | 552 |
-| Markdown | 0 | 70 | 44 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [claude-code-2.1.88.tgz](https://github.com/ponponon/claude_code_src/releases/download/2.1.88/claude-code-2.1.88.tgz) | 29.8 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -65,4 +68,4 @@ claude_code_src 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:18Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:05:12Z._

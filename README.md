@@ -12,6 +12,17 @@
 x install claude_code_src
 ```
 
+## Code insight
+
+Total: **757,653** lines of code across **4757** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 352,421 | 83,733 | 25,708 | 2850 |
+| TypeScript | 288,021 | 71,157 | 30,683 | 1354 |
+| Tsx | 117,211 | 12,994 | 3,014 | 552 |
+| Markdown | 0 | 70 | 44 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ponponon/claude_code_src>
@@ -22,12 +33,6 @@ x install claude_code_src
 - **Latest**: `2.1.88` (2026-04-01)
 - **Last commit**: 2026-04-15
 - **Assets in release**: 1
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [claude-code-2.1.88.tgz](https://github.com/ponponon/claude_code_src/releases/download/2.1.88/claude-code-2.1.88.tgz) | 29.8 MiB | `native/unknown` |
 
 ## Popularity
 
@@ -41,20 +46,18 @@ x install claude_code_src
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 360d | 2025-09-16 | 1 | 0 | 1 | 1 | 5 | 21 |
+| last720d | 2024-09-21 | 1 | 0 | 1 | 1 | 5 | 21 |
 
-## Code size
+## Release assets
 
-Total: **757,653** lines of code across **4757** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 352,421 | 83,733 | 25,708 | 2850 |
-| TypeScript | 288,021 | 71,157 | 30,683 | 1354 |
-| Tsx | 117,211 | 12,994 | 3,014 | 552 |
-| Markdown | 0 | 70 | 44 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [claude-code-2.1.88.tgz](https://github.com/ponponon/claude_code_src/releases/download/2.1.88/claude-code-2.1.88.tgz) | 29.8 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -65,4 +68,4 @@ Install metadata for claude_code_src lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:12Z._
