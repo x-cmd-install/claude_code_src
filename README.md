@@ -4,7 +4,7 @@
 
 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码
 
-![claude_code_src](https://repo.x-cmd.io/claude_code_src.svg)
+[![x-cmd/install — claude_code_src Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude_code_src.svg)](https://x-cmd.com/install/claude_code_src)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **757,653** lines of code across **4757** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,340 · **Forks**: 3,527 · **Open issues**: 6 · **Contributors**: 1
+- **Stars**: 2,339 · **Forks**: 3,526 · **Open issues**: 6 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **757,653** lines of code across **4757** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 0 | 1 | 1 | 5 | 21 |
-| 360d | 2025-09-23 | 1 | 0 | 1 | 1 | 5 | 21 |
-| last720d | 2024-09-28 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 360d | 2025-09-25 | 1 | 0 | 1 | 1 | 5 | 21 |
+| last720d | 2024-09-30 | 1 | 0 | 1 | 1 | 5 | 21 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for claude_code_src lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:03:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:07Z._
