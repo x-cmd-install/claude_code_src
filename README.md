@@ -21,7 +21,7 @@ Total: **757,653** lines of code across **4757** files in the top 5 languages.
 | JavaScript | 352,421 | 83,733 | 25,708 | 2850 |
 | TypeScript | 288,021 | 71,157 | 30,683 | 1354 |
 | Tsx | 117,211 | 12,994 | 3,014 | 552 |
-| Markdown | 0 | 70 | 44 | 1 |
+| Markdown | 0 | 60 | 37 | 1 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **757,653** lines of code across **4757** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.1.88` (2026-04-01)
-- **Last commit**: 2026-04-15
+- **Last commit**: 2026-11-04
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,335 · **Forks**: 3,509 · **Open issues**: 6 · **Contributors**: 1
+- **Stars**: 2,335 · **Forks**: 3,507 · **Open issues**: 6 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 5 · **Commits**: 21
+- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 5 · **Commits**: 22
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 1 | 0 | 1 | 1 | 5 | 21 |
-| last720d | 2024-11-14 | 1 | 0 | 1 | 1 | 5 | 21 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-09 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 360d | 2025-11-10 | 1 | 0 | 1 | 1 | 5 | 22 |
+| last720d | 2024-11-15 | 1 | 0 | 1 | 1 | 5 | 22 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for claude_code_src lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:35:14Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:54:31Z._
